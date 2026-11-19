@@ -202,7 +202,7 @@ body {
 }
 
 .section-header {
-  margin: 43px 0 244px 0;
+  margin: 44px 0 244px 0;
   text-align: center;
 }
 
@@ -331,7 +331,7 @@ body {
 
 /* FOOTER */
 .footer {
-  padding: 295px 0;
+  padding: 290px 0;
   border-top: 3px solid var(--shadow);
 }
 
@@ -344,7 +344,7 @@ body {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 92px;
-  margin: 66px 50px;
+  margin: 66px 42px;
 }
 
 .footer-col h4 {
@@ -360,14 +360,14 @@ body {
   gap: 12px;
   font-size: 61px;
   letter-spacing: 0.01em;
-  margin-bottom: 17px;
+  margin-bottom: 14px;
 }
 
 .copy-mark {
   display: inline-grid;
   place-items: center;
   width: 52px;
-  height: 78px;
+  height: 80px;
 }
 
 .top-link {
